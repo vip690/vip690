@@ -2,7 +2,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 Я страстный веб-разработчик с сильными навыками решения проблем и общения. Сосредоточен на серверных технологиях, проучился почти год и имею опыт работы в области менеджмента. Стремлюсь предоставлять высококачественный и надежный код. Хочу продолжать учиться и расти как разработчик.
-<br>
+ <p align="left">  
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="./icon/html.png" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icon/css.png" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icon/js.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./icon/typescript.png" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="./icon/php.png" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="./icon/mysql.png" alt="mySQL" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icon/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="./icon/git.png" alt="git" width="40" height="40"/> </a>
+</p>
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
