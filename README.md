@@ -4,3 +4,4 @@
 Я страстный веб-разработчик с сильными навыками решения проблем и общения. Сосредоточен на серверных технологиях, проучился почти год и имею опыт работы в области менеджмента. Стремлюсь предоставлять высококачественный и надежный код. Хочу продолжать учиться и расти как разработчик.
 <br>
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
