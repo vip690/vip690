@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 Я страстный веб-разработчик с сильными навыками решения проблем и общения. Сосредоточен на серверных технологиях, проучился почти год и имею опыт работы в области менеджмента. Стремлюсь предоставлять высококачественный и надежный код. Хочу продолжать учиться и расти как разработчик.
  <p align="left">  
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/adimael/adimael/icon/html.png" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/adimael/adimael/blob/icon/html.png" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icon/css.png" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icon/js.png" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./icon/typescript.png" alt="typescript" width="40" height="40"/> </a>
